@@ -1,3 +1,7 @@
+Gentoo + BSPWM
+===========
+![Screenshot](https://raw.githubusercontent.com/zr0/SS/refs/heads/main/G3nt00bsp.png "screenshot")
+
 Gentoo + FVWM
 ===========
 ![Screenshot](https://raw.githubusercontent.com/zr0/SS/refs/heads/main/b1n0m10.png "screenshot")
