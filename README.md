@@ -9,3 +9,7 @@ Xephyr + Blackbox
 Xephyr + Openbox
 ===========
 ![Screenshot](https://raw.githubusercontent.com/zr0/SS/refs/heads/main/shot_003.png "screenshot")
+
+Xephyr + Window Maker
+===========
+![Screenshot](https://raw.githubusercontent.com/zr0/SS/refs/heads/main/shot_002.png "screenshot")
