@@ -8,7 +8,7 @@ Gentoo + FVWM
 
 Mandrake 7.2 + Xchat
 ===========
-![Screenshot]( https://raw.githubusercontent.com/zr0/SS/refs/heads/main/shot_053.png"screenshot")
+![Screenshot](https://raw.githubusercontent.com/zr0/SS/refs/heads/main/shot_053.png "screenshot")
 
 Mandrake 7.2 + VirtualBox + Gnome
 ===========
